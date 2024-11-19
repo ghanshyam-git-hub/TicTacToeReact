@@ -12,3 +12,9 @@ const Square = (props)=>{
 };
 
 export default Square;
+
+
+// In React, the style attribute accepts an object with CSS properties
+//  as key-value pairs. When applying inline styles, the property names 
+//  are written in camelCase rather than hyphenated 
+//  (e.g., background-color becomes backgroundColor).
